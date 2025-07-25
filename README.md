@@ -5,7 +5,7 @@ A virtual pet world where players can collect, train, and care for magical creat
 ## 🌟 Current Features
 
 ### Pet Management
-- **Collect & Care**: Adopt various pet species (Dogs, Cats, Birds, Rabbits, Hamsters, Fish)
+- **Collect & Care**: Adopt various pet types
 - **Pet Stats**: Each pet has unique HP, Strength, Defense, Intelligence, and Speed stats
 - **Training System**: Send pets to training schools to improve their abilities
 - **Hunger & Happiness**: Keep your pets fed and entertained with food and toys
